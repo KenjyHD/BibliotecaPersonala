@@ -1,0 +1,10 @@
+add_book Zelda's Cut:Philippa Gregory:3:432
+add_book The Little House:Philippa Gregory:4:368
+search_book The Little House
+search_book Zelda's Cut
+list_author Philippa Gregory
+delete_book Zelda's Cut
+list_author Philippa Gregory
+search_by_author Philippa Gregory:Zelda's Cut
+search_by_author Philippa Gregory:Zelda's Cut
+search_by_author Philippa Gregory:The Little House
